@@ -105,8 +105,3 @@ console.log(myFunc(1));
 console.log(myFunc(0));
 
 
-
-
-
-
-
